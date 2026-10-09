@@ -7,7 +7,7 @@ noStroke();
 
 //vermelho
 fill(229, 26, 19);
-rect(0,0,width/2-33,320,02);
+rect(0,0,width/2-33,320.02);
 
 //amarelo
 fill(246,205,0);
