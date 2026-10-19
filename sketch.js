@@ -1,9 +1,11 @@
 function setup() {
 createCanvas(800, 800);
-background(248, 245, 234);
-noStroke(); 
+ 
+}
 
-
+function draw() {
+  background(248, 245, 234);
+  noStroke();
 
 //vermelho
 fill(229, 26, 19);
