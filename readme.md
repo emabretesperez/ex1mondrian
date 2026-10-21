@@ -1,18 +1,18 @@
 # 1exmondrian
 
-Parte 1 - O quadro
+**Parte 1 - O quadro**
 
 O quadro foi desenhado num canvas de 800 x 800 píxeis, com fundo creme.
 
 **Cores usadas (RGB)**
 
-| Elemento | Cor |
-|---|---|
-| Fundo | `248, 245, 234` |
-| Vermelho | `229, 26, 19` |
-| Amarelo | `246, 205, 0` |
-| Azul | `36, 34, 117` |
-| Linhas | `51` (preto/cinzento escuro) |
+ Cores 
+
+ Fundo - `248, 245, 234` 
+ Vermelho - `229, 26, 19` 
+ Amarelo - `246, 205, 0` 
+ Azul - `36, 34, 117` 
+ Linhas - `51` (preto/cinzento escuro) 
 
 **Como foi feito**
 
